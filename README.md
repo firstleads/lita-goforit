@@ -1,7 +1,7 @@
 # lita-goforit
 
-[![Build Status](https://travis-ci.org/miketheman/lita-goforit.png?branch=master)](https://travis-ci.org/miketheman/lita-goforit)
-[![Coverage Status](https://coveralls.io/repos/miketheman/lita-goforit/badge.png)](https://coveralls.io/r/miketheman/lita-goforit)
+[![Build Status](https://travis-ci.org/miketheman/lita-goforit.svg?branch=master)](https://travis-ci.org/miketheman/lita-goforit)
+[![Coverage Status](https://coveralls.io/repos/miketheman/lita-goforit/badge.svg)](https://coveralls.io/r/miketheman/lita-goforit)
 
 Lighten the mood with a gopher!
 
