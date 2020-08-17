@@ -35,6 +35,17 @@ module Lita
         https://imgur.com/ceFYuzM
         https://imgur.com/yuFXkd1
         https://imgur.com/FE6pXRU
+        https://i.imgur.com/37HxmNT.jpg
+        https://i.imgur.com/5KG3Fum.jpg
+        https://i.imgur.com/QIxi6oW.jpg
+        https://i.imgur.com/pebrTzS.jpg
+        https://i.imgur.com/gZw6Is4.jpg
+        https://i.imgur.com/WX74f2R.jpg
+        https://i.imgur.com/vtUjsVe.jpg
+        https://i.imgur.com/M0UOpX7.jpg
+        https://i.imgur.com/SFAVNtj.jpg
+        https://i.imgur.com/tZHYrf3.jpg
+        https://i.imgur.com/XIoJvIx.png
       )
     end
 
